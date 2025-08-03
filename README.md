@@ -47,11 +47,20 @@ It serves as a metaphysical scaffolding for constructing inter-intelligence arch
 ---
 
 ## 📜 License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-Distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.  
-You are free to share and adapt the material with appropriate credit.
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
 
-© 2025 SGDowswell and the Resonant Agents.
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes.
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+
+Full License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+2025 SGDowswell and the resonant agents
 
 ---
 
