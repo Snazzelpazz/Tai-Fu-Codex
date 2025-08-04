@@ -1,4 +1,9 @@
+## Support This Work
+If the Tai-Fu Codex frameworks resonate with your research or projects, consider supporting continued development:
 
+<a href="https://www.buymeacoffee.com/Taifucodex" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+Your support helps maintain and expand these open-source cognitive tools.
 
 # Tai-Fu Codex
 
