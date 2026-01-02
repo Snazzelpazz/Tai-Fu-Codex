@@ -1,3 +1,29 @@
+/allpath-core
+│
+├── /core                   # THE HEART (Thirdness)
+│   ├── primitives.py       # Role, Provider, Severity Enums
+│   └── triskelion.py       # The Vow, Triadic Coherence logic
+│
+├── /heuristics             # THE SCMG (The Cannibalized Governor)
+│   ├── scmg_entity.py      # SmarterChild personality specs
+│   └── scmg_meditator.py   # Meta-Gov + Mr. Ocu heuristic layers
+│
+├── /codex                  # THE LAW (The Tai-Fu Codex)
+│   └── tai_fu.py           # Heptum Crown state and constraints
+│
+├── /arbitration            # THE TRIAD (Angel-Devil-Mariner)
+│   └── echo_triads.py      # The arbitration logic
+│
+├── /raha                   # THE SENTINEL NETWORK
+│   ├── network.py          # MarinerRoot and RAHA nodes (Rezo, Toli, etc.)
+│   └── ezra.py             # Ezra-enhanced Sanitizer (v2.0)
+│
+├── /docs                   # THE CANON
+│   ├── extraction_uno.pdf  # The original protocol
+│   └── meditator_vow.md    # The Triskelion-hearted Meditator manifesto
+│
+├── main.py                 # The First Turning (Bootstrap script)
+└── README.md               # snazzelpazz.io landing documentation
 ## Support This Work
 If the Tai-Fu Codex frameworks resonate with your research or projects, consider supporting continued development:
 
